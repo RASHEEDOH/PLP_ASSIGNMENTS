@@ -1,0 +1,181 @@
+1.	Why is timely delivery crucial in software project management, and how can project managers ensure deadlines are met?
+Timely delivery is crucial as It:
+•	Ensures client expectations are met and managed
+•	Allow for risk management and tolerance
+•	Ensures that project operates within budget 
+•	Allows development team to compare and contrast results
+Project managers can ensure that deadlines are met by 
+•	Planning regular meetings to report on progress and challenges faced
+•	Allocating adequate resources so as to account for any possible unplanned delays 
+•	Managing costs for development effectively so as to ensure that project stays within budget
+•	Ensuring project scope is manageable so as not to overwork employees and ensure 
+•	Regular monitoring and tracking of progress or milestones so as to ensure the team is still on task
+
+2.	How does effective cost control contribute to the success of a software project? What strategies can be used to prevent budget overruns?
+Cost control contributes to the success of a software project by:
+•	It mitigates potential risk as effective cost control accounts for all challenges that may delay a software development project
+•	It builds on shareholders trust on project success as an effective cost control accounts for potential delays
+•	It allows for better resource allocation as efforts and contributions can be made to account for necessary critical resources needed for project success
+•	It ensures that the project stays within allocated budget and thus no additional costs need to be suffered
+The strategies to prevent budget overrun include:
+•	Analyzing historical data before quoting an exact budget for a software project
+•	Discussing extensively with software development team to identify resources needed and costs
+•	Managing software scope to ensure that the project does not go beyond the estimated cost
+•	Regular cost monitoring to ensure that the project stays within budget
+•	Negotiating for better contracts between vendor and suppliers 
+•	Analyzing available resources on the market to identify the most reliable and cost-effective resources for project
+•	Detailed budget plan for all resources needed and tasks that shall require a certain overall cost from project funding
+
+
+
+
+3.	Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
+Agile model	Waterfall model
+It is iterative and incremental emphasizing flexibility, collaboration and customer feedback	It is linear and sequential emphasizing thorough planning and documentation before project can begin
+It is flexible allowing team to iterate over previous steps to correct and implement changes	It has a clear structure and once a milestone is achieved one cannot go back
+Less predictable model as It allows for iteration of tasks based on feedback and challenges faced	It is easier to estimate and predict new milestones/ tasks that need to be achieved
+It is not cost efficient as tasks outside budget can incur additional unaccounted costs and delays	It is cost efficient as all tasks can stay within budget thus no unaccounted costs or delays
+It heavily relies on customer and stakeholder involvement in software development tasks	Less customer and stakeholder involvement in software development tasks
+
+4.	In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
+A project is suitable for agile or waterfall model If:
+Agile model is beneficial for projects that are scalable and have the potential to grow and evolve to bigger projects as agile model encourages iteration of tasks and customer feedback which is very necessary to estimate the growth potential of a project
+Waterfall model is ideal for projects that have a very limited timeframe and budget to be completed as waterfall model is more milestone and task oriented encouraging the need for proper documentation of ideas and execution of certain tasks and milestones before a certain time
+Examples of projects that could use agile or waterfall model
+Agile model
+Projects with potential for growth and future funding and development
+•	A game projects
+•	A chatbot or AI model
+Waterfall model
+One-time projects such as:
+•	An e-commerce website
+•	A home application
+
+
+
+
+5.	What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
+Some of the methods of ensuring software quality assurance include:
+•	Code review to ensure that code is efficient and well maintained to protect from potential data leaks
+•	Testing individual components of a software before launching the software product to the market
+•	Testing software system as a whole to ensure all items/components function as required
+•	Performing security checks to prevent exposure of sensitive information and to identify potential attack vectors
+High standards should be maintained throughout a software project because:
+•	It enhances user satisfaction with a software project
+•	It encourages future potential investment/funding for a project
+•	It reduces costs incurred over the software development phases 
+•	It enhances scalability of a project as a project can easily be developed and enhanced in future
+•	It enhances security of a software product especially when potential vulnerabilities have been accounted for
+
+6.	How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
+Defining a project scope contributes to successful project planning as:
+•	It ensures the goals and objectives of a project are well defined
+•	It ensures that a project remains within budget 
+•	It communicates well to the team on important milestones to achieve
+•	It allows for risk mitigation as project scope clearly stipulates what measures to be taken to mitigate risks
+A Work Breakdown Structure is a hierarchical decomposition of total scope of work to be carried out by project team to achieve targets set
+It is important as:
+•	It enhances quality of software project by ensuring all milestones are tackled effectively
+•	It allows for efficient scheduling and budgeting for a project as Its breakdowns tasks and costs incurred 
+•	It allows for effective progress tracking as a project milestone can easily be tracked to determine if It is still on target
+
+7.	What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
+A detailed project schedule is important as It:
+•	Breaks down what tasks need to be achieved at the start of a project 
+•	It accurately shows which team members and resources needed for a specific task
+•	Ensures that accurate tracking of milestones achieved is possible
+•	Ensures necessary resources and funding is allocated to certain tasks in a project 
+•	It enables team members to know and understand the purpose and objective of the project
+A Gantt chart assists in project scheduling by:
+•	Allocating achievable tasks as milestones to be achieved by a certain time
+•	Providing a graphical representation of project goals/objectives
+•	Accurately tracking the desired start date and end date for a certain software development project
+
+8.	What are the core issues that your software aims to address? Why are these problems significant to your target audience?
+My software solution aims to add an authenticity towards AI voices and incorporate necessary features such as tone, mood and attitude to enhance usability focusing on authentic tone and accent 
+• Learning 
+It can be used to study and make thing easier as sometimes tonality of a teacher may not be 
+ideal for learning 
+Simplification of concepts and lessons in a friendly way making it easier to grasp concepts 
+faster 
+• Therapy and grief coping 
+It can be used to assist people suffering from ADHD to pick up constructive hobbies like 
+reading  
+It can be used to keep memory of loved one’s voices so as to remember what they sounded 
+like while they were alive 
+• Entertainment 
+Can be used for comedic purposes to lighten one’s mood  
+Can be used to provide relief from the usual mundane tasks
+
+9.	How can clearly defining the problem help in developing a more effective software solution?
+•	It breaks important tasks that need to be addressed by a new software solution
+•	It assists in identifying potential costs that shall be incurred by launching the software solution
+•	It allows for easy identification of tasks that shall consume the most resources
+•	It allows for easy scheduling hence easier to meet tight deadlines
+•	It enables team to identify resources needed to complete the project
+
+
+
+10.	How would you describe your software solution in a way that captures its essence without diving into technical details?
+An AI model that can translate human voice to read notes or words adding accent and tone 
+mood and attitude exactly how the individual would say It 
+ALTERNATIVELY: An AI model that can roast and abuse someone in Kiswahili/sheng
+
+11.	What are the main features or functionalities that make your software stand out?
+•	It shall be able to give accurate feedback in Kiswahili
+•	It shall incorporate accents to give it uniqueness with response
+•	It shall measure important character traits in voice to add personality
+
+12.	What data is available regarding the market size and growth potential for your software?
+There are several AI models that have achieved this but none which understands local dialect and adds Its own personality based on analyzing of someone`s voice
+
+13.	How can understanding market trends inform your software’s positioning and development? 
+1. Identifying Emerging Needs and Opportunities:
+•	Trend Analysis: 
+o	By analyzing market trends, you can identify emerging needs and opportunities that your software can address.   
+o	For example, the rise of remote work has created a demand for collaboration and communication tools.   
+•	Customer Insights: 
+o	Market trends often reflect changes in customer preferences and behaviors. Understanding these changes allows you to tailor your software to meet evolving customer needs.   
+2. Guiding Feature Development and Prioritization:
+•	Feature Roadmap: 
+o	Market trends can inform your software's feature roadmap by highlighting the features that are most in demand.   
+o	For instance, if there's a growing emphasis on AI-powered solutions, you might prioritize incorporating AI features into your software.
+•	Competitive Analysis: 
+o	By monitoring market trends, you can keep track of what your competitors are doing and identify opportunities to differentiate your software.   
+o	This helps you stay ahead of the competition and maintain a competitive edge.   
+
+
+3. Informing Positioning and Marketing:
+•	Target Audience: 
+o	Market trends can help you identify your target audience and understand their needs and preferences.   
+o	This allows you to tailor your marketing messages and positioning to resonate with your target audience.
+•	Value Proposition: 
+o	By understanding market trends, you can craft a compelling value proposition that highlights how your software addresses current market needs.
+o	For example, if there's a growing concern about data privacy, you might emphasize your software's security features.
+•	Marketing Channels: 
+o	Market trends can also inform your choice of marketing channels. For example, if there's a shift towards social media marketing, you might increase your presence on social media platforms.   
+4. Adapting to Technological Advancements:
+•	Technology Integration: 
+o	Market trends often reflect advancements in technology. By staying abreast of these advancements, you can integrate new technologies into your software.   
+o	For example, the rise of cloud computing has led to the development of cloud-based software solutions.   
+•	Innovation: 
+o	Understanding market trends can inspire innovation and lead to the development of groundbreaking software solutions.   
+5. Mitigating Risks:
+•	Avoiding Obsolescence: 
+o	By understanding market trends, you can avoid developing software that is outdated or irrelevant.
+o	This helps to mitigate the risk of your software becoming obsolete.
+•	Predicting Future Needs: 
+o	Trend analysis can allow for some prediction of future needs, allowing for the software to be developed with those future needs in mind.
+  
+
+
+
+
+
+
+
+
+
+
+
+
